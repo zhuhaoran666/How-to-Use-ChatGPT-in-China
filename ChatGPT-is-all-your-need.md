@@ -1,7 +1,6 @@
 <H1 align='center'>ChatGPT is all your need</H1>
 
 ### Introduction
-
 ChatGPT is an AI language model based on the GPT-3.5 architecture. It is a powerful toolkit that can greatly benefit our studies.Allow me use some examples to showcase its capabilities.
 <img src="image/GPTexample1.png">
 In the example above, ChatGPT can easily understand our requset and give us a reference answer.Most of the code in the answer can be run directly, a few may need to be modified to run. It can replace search engines in some ways.(Usually search engines contain a lot of useless information)
