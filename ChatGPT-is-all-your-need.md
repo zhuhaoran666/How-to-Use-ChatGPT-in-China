@@ -1,7 +1,6 @@
 <center>
 <H1>ChatGPT is all your need</H1>
 </center>
-&emsp;&emsp;*Because we can't find any tutorials about ChatGPT in Chinese Internet forums, but I think ChatGPT is useful tool for our studies and research. Therefore I write this article  to teach how to use ChatGPT in china.*
 <h3>Introduction</h3>
 &emsp;&emsp;ChatGPT is an AI language model based on the GPT-3.5 architecture. It is a powerful toolkit that can greatly benefit our studies.Allow me use some examples to showcase its capabilities.
 <center>

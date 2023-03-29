@@ -1,2 +1,1 @@
-# test
-# How-to-Use-ChatGPT-in-China
+&emsp;&emsp;*Because we can't find any tutorials about ChatGPT in Chinese Internet forums, but I think ChatGPT is useful tool for our studies and research. Therefore I write this article  to teach how to use ChatGPT in china.*
