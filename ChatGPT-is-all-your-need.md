@@ -1,3 +1,12 @@
+<style>
+    p{
+        {text-indent: 2em;}
+    }
+    br{
+        {text-indent: 2em;}
+    }
+</style>
+
 <H1 align='center'>ChatGPT is all your need</H1>
 <h3>Introduction</h3>
 <p>
@@ -9,11 +18,11 @@ In the example above, ChatGPT can easily understand our requset and give us a re
 </p>
 <h3>Step 1:Tool Preparation</h3>
 <p>
-Choose a Internet node that is not in China. If you already done, you can skip to Step2.<br>If you don't konw how to get a Internet node. I recommend a software here (<https://moetor.one>), it's not free but cheap. You registration and use will not bring me any benefits, I recommend it just because it useful. After you download and install, choose a node and go to the next step.
+Choose a Internet node that is not in China. If you already done, you can skip to Step2.<br>If you don't konw how to get a Internet node. I recommend a software here (<a href=https://moetor.one>https://moetor.one</a>), it's not free but cheap. You registration and use will not bring me any benefits, I recommend it just because it useful. After you download and install, choose a node and go to the next step.
 </p>
 <h3>Step 2:Register an OpenAI Account</h3>
 <p>
-Open this link(<https://chat.openai.com/auth/login>) and click ==Sign up==.Follow the prompts to fill in the registration information.<br>If you get the following error, the reason is that you use the QQ or 163 email. 
+Open this link(<a href=https://chat.openai.com/auth/login>https://chat.openai.com/auth/login</a>) and click <span color="yellow">Sign up</span>.Follow the prompts to fill in the registration information.<br>If you get the following error, the reason is that you use the QQ or 163 email. 
 </p>
 <img src="image/signup.png" width="400" height="400">
 <p>
@@ -34,14 +43,6 @@ After about 30s, you will get a verification code.Copy and paste it.
 </p>
 <img src="image/code.png" width="80%" height="80%">
 <p>
-If your steps are correct,now ChatGPT is available.:smile::smile:
+If your steps are correct,now ChatGPT is available. :smile: :smile:
 </p>
 <img src="image/chatgpt.png" width="80%" height="80%">
-<style>
-    p{
-        {text-indent: 2em;}
-    }
-    br{
-        {text-indent: 2em;}
-    }
-</style>
