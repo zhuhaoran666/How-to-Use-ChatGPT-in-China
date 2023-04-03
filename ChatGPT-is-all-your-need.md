@@ -32,11 +32,11 @@
 <div align=center><img src="image/varify.png" width="50%" height="50%"></div>
 &emsp;&emsp;You need a non-Chinese phone number. <https://sms-activate.org/> This link provide virtual phone number service and support Alipay. 
 
-&emsp;&emsp;After registering an account,select a country(prices vary by country) and search for openai services on the right side.Click buy.
+&emsp;&emsp;After registering an account, select a country(prices vary by country) and search for openai services on the right side.Click buy.
 
 <div align=center><img src="image/phone.png" width="200" height="400"></div>
 
-&emsp;&emsp;Then you will get a virtual phone number.Copy it on the phone number verification page and click send code. Note that the selected country should be the same as the country of your mobile phone number
+&emsp;&emsp;Then you will get a virtual phone number. Copy it on the phone number verification page and click send code. Note that the selected country should be the same as the country of your mobile phone number
 
 <div align=center><img src="image/phoneNumber.png" width="80%" height="80%"></div>
 
