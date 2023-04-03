@@ -36,7 +36,7 @@
 
 <div align=center><img src="image/phone.png" width="200" height="400"></div>
 
-&emsp;&emsp;Then you will get a virtual phone number.Copy it on the phone number verification page and click send code.Note that the selected country should be the same as the country of your mobile phone number
+&emsp;&emsp;Then you will get a virtual phone number.Copy it on the phone number verification page and click send code.###### Note that the selected country should be the same as the country of your mobile phone number
 
 <div align=center><img src="image/phoneNumber.png" width="80%" height="80%"></div>
 
