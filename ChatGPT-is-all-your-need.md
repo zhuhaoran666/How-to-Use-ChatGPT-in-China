@@ -5,7 +5,7 @@
 
 <div align=center><img src="image/GPTexample1.png"></div>
 
-&emsp;&emsp;In the example above, ChatGPT can easily understand our requset and give us a reference answer.Most of the code in the answer can be run directly, a few may need to be modified to run. It can replace search engines in some ways.(Usually search engines contain a lot of useless information)  
+&emsp;&emsp;In the example above, ChatGPT can easily understand our request and give us a reference answer.Most of the code in the answer can be run directly, a few may need to be modified to run. It can replace search engines in some ways.(Usually search engines contain a lot of useless information)  
 &emsp;&emsp;For some reason, the ChatGPT is not available in China. (include Hongkong,Macau and Taiwan) However they are ways to access it. Next I will provide a guide on how to use ChatGPT in china
 
 ### Step 1:Tool Preparation
