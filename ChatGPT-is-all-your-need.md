@@ -15,6 +15,7 @@
 
 ### Step 2:Register an OpenAI Account
 &emsp;&emsp;Open this link(https://chat.openai.com/auth/login) and click Sign up.Follow the prompts to fill in the registration information.
+
 ##### Possible Mistakes:
 &emsp;&emsp;1. If you get the following error, the reason is that you use the QQ or 163 email. Please choose other email.
 
