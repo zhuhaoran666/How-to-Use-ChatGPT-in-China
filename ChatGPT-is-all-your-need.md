@@ -30,7 +30,7 @@
 &emsp;&emsp;Now log in with your account, and you will see that you need to verify your phone number.
 
 <div align=center><img src="image/varify.png" width="50%" height="50%"></div>
-&emsp;&emsp;You need a non-Chinese phone number. <https://sms-activate.org/> This link provide virtual phone number service and support Alipay. 
+&emsp;&emsp;You need a non-Chinese phone number. (https://sms-activate.org/) This link provide virtual phone number service and support Alipay. 
 
 &emsp;&emsp;After registering an account, select a country(prices vary by country) and search for openai services on the right side.Click buy.
 
